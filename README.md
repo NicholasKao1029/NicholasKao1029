@@ -13,7 +13,7 @@
 - 📖 Reading [Web Scalability for startup Engineers](https://www.google.com/search?q=web+scalability+for+startup+engineers)
 ### Links 🔗
 
-Feel free to connect.
+Feel free to connect!
 
 <p align="left">
 <a href="https://www.linkedin.com/in/nick-kao-468540174/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="gautamkrishnar" height="30" width="40" /></a>
