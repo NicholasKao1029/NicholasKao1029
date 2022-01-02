@@ -1,20 +1,34 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**NicholasKao1029/NicholasKao1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Overview ☁️
 
-Here are some ideas to get you started:
+- Lead Backend Engineer, Software Architect & Head of Data at [Ad Auris](https://www.ad-auris.com/). Focused on
+    - Distribution 📦  of our product 🎧.
+    - Measuring and learning our products impact 📊.
+    - Internal API 🔌.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Developer for [UBC Launch Pad](https://ubclaunchpad.com/) working on *Umami* 🍜. 
+- Student at UBC BCs Computer Science, gradutating Summer 2022.
+<!-- Will update with link when deployed :) -->
+- 🌱 I’m currently learning Solidity and Go
+- 📖 Reading [Web Scalability for startup Engineers](https://www.google.com/search?q=web+scalability+for+startup+engineers)
 
+
+
+### Links 🔗
+
+Feel free to connect.
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nick-kao-468540174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://github.com/NicholasKao1029/NicholasKao1029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://dev.to/nicholaskao1029" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
+<!-- TODO: personal website -->
+
+<!-- TODO: add project to highlight -->
+
+<!-- TODO: Blockchian information for funsies maybe public address and ways to interact with contract -->
 ### :computer: Github Statistics
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NicholasKao1029&show_icons=true&theme=radical)
 
