@@ -75,7 +75,7 @@ Feel free to connect!
 
 <!-- </details> -->
 
-### 📈 Breakdown courtesy of (Waka Time)[https://wakatime.com/]
+### 📈 Weekly Breakdown
 <!--START_SECTION:waka-->
 ```text
 JavaScript   12 hrs 14 mins  ███████████████▒░░░░░░░░░   60.68 % 
