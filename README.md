@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
  ### 📈 Weekly Language Breakdown
 
-[![Coding wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicholasKao1029&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NicholasKao1029&layout=compact&theme=radical" alt="NicholasKao1029" />
 
 <!--START_SECTION:waka-->
   
