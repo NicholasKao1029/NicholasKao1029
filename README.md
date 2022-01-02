@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NicholasKao1029&show_icons=true&theme=radical)
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
