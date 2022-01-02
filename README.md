@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 ### :computer: Github Statistics
-[Github Stats](https://github-readme-stats.vercel.app/api?username=NicholasKao1029&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=NicholasKao1029&show_icons=true&theme=radical)
 
 <!--
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NicholasKao1029&show_icons=true&theme=radical" alt="NicholasKao1029" />
 -->
 
  ### 📈 Breakdown courtesy of (Waka Time)[https://wakatime.com/]
- [waka stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicholasKao1029&layout=compact)
+ ![waka stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicholasKao1029&layout=compact)
 <!--
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NicholasKao1029&layout=compact" alt="NicholasKao1029" />
 -->
