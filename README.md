@@ -43,5 +43,11 @@ Feel free to connect.
 -->
 
 <!--START_SECTION:waka-->
-  
+```text
+JavaScript   12 hrs 14 mins  ███████████████▒░░░░░░░░░   60.68 % 
+Python       2 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Markdown     1 hr 51 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Bash         1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Solidity     53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+```
 <!--END_SECTION:waka-->
