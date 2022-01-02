@@ -16,12 +16,17 @@ Here are some ideas to get you started:
 -->
 
 ### :computer: Github Statistics
+https://github-readme-stats.vercel.app/api?username=NicholasKao1029&show_icons=true&theme=radical
 
+<!--
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NicholasKao1029&show_icons=true&theme=radical" alt="NicholasKao1029" />
+-->
 
  ### 📈 Weekly Language Breakdown
-
+ https://github-readme-stats.vercel.app/api/wakatime?username=NicholasKao1029&layout=compact
+<!--
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NicholasKao1029&layout=compact" alt="NicholasKao1029" />
+-->
 
 <!--START_SECTION:waka-->
   
