@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NicholasKao1029&show_icons=true&theme=radical)
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasKao1029&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
