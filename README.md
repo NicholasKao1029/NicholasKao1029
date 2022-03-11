@@ -79,10 +79,11 @@ Feel free to connect!
 <!--START_SECTION:waka-->
 
 ```text
-Go           12 hrs 30 mins  █████████▒░░░░░░░░░░░░░░░   37.55 %
-JavaScript   10 hrs 2 mins   ███████▓░░░░░░░░░░░░░░░░░   30.15 %
-TypeScript   7 hrs 3 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
-Other        50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+JavaScript   12 hrs 51 mins  █████████▓░░░░░░░░░░░░░░░   38.92 %
+Go           12 hrs 32 mins  █████████▒░░░░░░░░░░░░░░░   37.99 %
+Julia        2 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+TypeScript   1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Other        51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
 
 <!--END_SECTION:waka-->
