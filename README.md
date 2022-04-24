@@ -79,10 +79,9 @@ Feel free to connect!
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 58 mins   ███████████████▒░░░░░░░░░   61.41 %
-Racket       2 hrs 35 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.55 %
-JavaScript   48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+TypeScript   5 hrs 58 mins   █████████████████████░░░░   83.61 %
+JavaScript   48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
 ```
 
 <!--END_SECTION:waka-->
