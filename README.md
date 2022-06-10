@@ -79,12 +79,12 @@ Feel free to connect!
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript      9 hrs 6 mins    ████████████░░░░░░░░░░░░░   48.62 %
-TypeScript      7 hrs 37 mins   ██████████░░░░░░░░░░░░░░░   40.64 %
-Bash            55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-JSON            40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-Markdown        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Git Config      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+TypeScript      7 hrs 38 mins   ███████████░░░░░░░░░░░░░░   43.36 %
+JavaScript      6 hrs 34 mins   █████████▒░░░░░░░░░░░░░░░   37.39 %
+JSON            1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+Bash            55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+Markdown        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Other           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
