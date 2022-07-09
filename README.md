@@ -79,9 +79,9 @@ Feel free to connect!
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 3 mins     ██████████████████░░░░░░░   71.37 %
-TypeScript   24 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+JavaScript   1 hr 20 mins    ███████████████████░░░░░░   75.82 %
+TypeScript   24 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
