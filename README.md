@@ -79,7 +79,12 @@ Feel free to connect!
 <!--START_SECTION:waka-->
 
 ```text
-Prisma   1 min           █████████████████████████   100.00 %
+TypeScript   1 hr 50 mins    ███████████████████████░░   91.63 %
+Bash         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+Prisma       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
