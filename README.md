@@ -79,8 +79,7 @@ Feel free to connect!
 <!--START_SECTION:waka-->
 
 ```text
-JSON     0 secs          ███████████████████████▒░   92.86 %
-Prisma   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+TypeScript   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
