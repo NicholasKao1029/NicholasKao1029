@@ -79,8 +79,7 @@ Feel free to connect!
 <!--START_SECTION:waka-->
 
 ```text
-Text     18 mins         █████████████████████████   99.82 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
