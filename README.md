@@ -79,7 +79,8 @@ Feel free to connect!
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Prisma       29 mins         █████████████████████████   99.54 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
