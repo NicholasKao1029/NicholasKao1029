@@ -79,12 +79,9 @@ Feel free to connect!
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 24 mins    █████████████████▓░░░░░░░   70.74 %
-JavaScript   24 mins         █████░░░░░░░░░░░░░░░░░░░░   20.18 %
-Prisma       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-Vim Script   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Python       22 mins         ██████████████████▓░░░░░░   74.87 %
+TypeScript   6 mins          ██████░░░░░░░░░░░░░░░░░░░   23.43 %
+Prisma       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
