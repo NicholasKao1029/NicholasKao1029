@@ -79,10 +79,7 @@ Feel free to connect!
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 21 mins    █████████████████████████   99.45 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-MDX          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
