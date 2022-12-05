@@ -79,7 +79,9 @@ Feel free to connect!
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python     16 mins         ███████████▒░░░░░░░░░░░░░   45.72 %
+Go         10 mins         ███████░░░░░░░░░░░░░░░░░░   28.35 %
+Markdown   9 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.94 %
 ```
 
 <!--END_SECTION:waka-->
