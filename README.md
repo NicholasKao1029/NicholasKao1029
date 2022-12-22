@@ -79,11 +79,7 @@ Feel free to connect!
 <!--START_SECTION:waka-->
 
 ```text
-Bash       47 mins         █████████████▓░░░░░░░░░░░   54.15 %
-Python     32 mins         █████████░░░░░░░░░░░░░░░░   36.60 %
-Text       6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-HTML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
