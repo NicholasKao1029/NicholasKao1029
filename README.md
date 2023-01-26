@@ -2,23 +2,26 @@
 
 #### 50,000 foot view of me  ☁️
 
-- Lead Backend Engineer, Software Architect & Head of Data at [Ad Auris](https://www.ad-auris.com/). Focused on
+- Currently DDOS at Microsoft
+    - Threat detection and reaction
+
+- Prev Founding Eng [Ad Auris](https://www.ad-auris.com/). Focused on
     - Distribution 📦  of our product 🎧.
     - Measuring and learning our impact 📊.
     - Internal API 🔌.
 - Developer for [UBC Launch Pad](https://ubclaunchpad.com/) working on *Umami* 🍜. 
 - Student at UBC BCs Computer Science, gradutating Summer 2022.
 <!-- Will update with link when deployed :) -->
-- 🌱 I’m currently learning Solidity and Go
-- 📖 Reading [Web Scalability for startup Engineers](https://www.google.com/search?q=web+scalability+for+startup+engineers)
+- 🌱 Focused on AI
+
 ### Links 🔗
 
 Feel free to connect!
 
 <p align="left">
+ <a href="https://twitter.com/Koben_Kao" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg](https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg)" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nick-kao-468540174/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://github.com/NicholasKao1029/NicholasKao1029" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://dev.to/nicholaskao1029" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 <!-- TODO: personal website -->
 
