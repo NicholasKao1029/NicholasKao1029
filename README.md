@@ -82,11 +82,11 @@ Feel free to connect!
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 14 mins   ███████████░░░░░░░░░░░░░░   43.75 %
-Python       2 hrs 59 mins   ██████████░░░░░░░░░░░░░░░   40.40 %
-Bash         27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-JSON         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-JavaScript   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Python       4 hrs 46 mins   █████████████▒░░░░░░░░░░░   53.46 %
+TypeScript   3 hrs 9 mins    █████████░░░░░░░░░░░░░░░░   35.38 %
+Bash         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+JSON         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+JavaScript   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
