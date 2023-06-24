@@ -82,7 +82,11 @@ Feel free to connect!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   21 mins         ██████████▒░░░░░░░░░░░░░░   41.16 %
+Bash         19 mins         █████████▓░░░░░░░░░░░░░░░   38.30 %
+Markdown     5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+JSON         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+gitignore    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
