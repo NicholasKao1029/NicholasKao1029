@@ -82,10 +82,7 @@ Feel free to connect!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   31 mins         ████████████████▓░░░░░░░░   66.23 %
-Python       15 mins         ████████▒░░░░░░░░░░░░░░░░   33.17 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
