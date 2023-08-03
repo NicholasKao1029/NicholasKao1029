@@ -9,14 +9,9 @@
     - Distribution 📦  of our product 🎧.
     - Measuring and learning our impact 📊.
     - Internal API 🔌.
-- Developer for [UBC Launch Pad](https://ubclaunchpad.com/) working on *Umami* 🍜. 
-- Student at UBC BCs Computer Science, gradutating Summer 2022.
-<!-- Will update with link when deployed :) -->
-- 🌱 Focused on AI
+- 🌱 Focused on AI for fun
 
 ### Links 🔗
-
-Feel free to connect!
 
 <p align="left">
  <a href="https://twitter.com/Koben_Kao" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="gautamkrishnar" height="30" width="40" /></a>
