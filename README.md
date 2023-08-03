@@ -1,8 +1,6 @@
-### Welcome <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+#### 10K overview  ☁️
 
-#### 50,000 foot view of me  ☁️
-
-- Currently DDOS at Microsoft
+- RN: DDOS at Microsoft
     - Threat detection and reaction
 
 - Prev Founding Eng [Ad Auris](https://www.ad-auris.com/). Focused on
