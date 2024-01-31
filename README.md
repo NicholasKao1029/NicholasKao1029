@@ -12,7 +12,6 @@
 ### Links 🔗
 
 <p align="left">
- <a href="https://twitter.com/Koben_Kao" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nick-kao-468540174/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://github.com/NicholasKao1029/NicholasKao1029" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
