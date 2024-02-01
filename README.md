@@ -1,10 +1,11 @@
-#### 10K overview  ☁️
+- [Comfy Deploy](https://www.comfydeploy.com/)
+- Building the deployment solution to [ComfyUI](https://github.com/comfyanonymous/ComfyUI) workflows
 
-- RN: DDOS at Microsoft
+-  DDOS at Microsoft
     - Threat detection and reaction
 
 - Prev Founding Eng [Ad Auris](https://www.ad-auris.com/). Focused on
     - Distribution 📦  of our product 🎧.
     - Measuring and learning our impact 📊.
     - Internal API 🔌.
-- 🌱 Focused on AI
+- 🌱 Focused on AI for fun
