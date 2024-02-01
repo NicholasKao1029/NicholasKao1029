@@ -7,5 +7,5 @@
 - Prev Founding Eng [Ad Auris](https://www.ad-auris.com/). Focused on
     - Distribution 📦  of our product 🎧.
     - Measuring and learning our impact 📊.
-    - Internal API 🔌.
+    - API 🔌.
 - 🌱 Focused on AI for fun
