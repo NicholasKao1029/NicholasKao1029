@@ -8,4 +8,4 @@
     - Distribution 📦  of our product 🎧.
     - Measuring and learning our impact 📊.
     - API 🔌.
-- 🌱 Focused on AI for fun
+- 🌱 Focused on AI for Media generation
