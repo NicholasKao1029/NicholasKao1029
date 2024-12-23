@@ -1,6 +1,8 @@
+Current
 - [Comfy Deploy](https://www.comfydeploy.com/)
-- Building the deployment solution to [ComfyUI](https://github.com/comfyanonymous/ComfyUI) workflows
+- Building the deployment solution for [ComfyUI](https://github.com/comfyanonymous/ComfyUI) workflows
 
+Prev
 -  DDOS at Microsoft
     - Threat detection and reaction
 
